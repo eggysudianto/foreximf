@@ -1,4 +1,4 @@
-Menggunakan laravel "^8.75" dan php "^7.3|^8.0"
+Menggunakan laravel "^8.75" dan php "^7.3|^8.0" dan npm 8.15.0
 
 **Cara Penginstalan**
 
